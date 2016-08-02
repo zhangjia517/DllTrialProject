@@ -1,0 +1,10 @@
+G:\DllTrialProject\FostudioUtility\FostudioUtility\FostudioUtility\bin\Debug\FostudioUtility.dll
+G:\DllTrialProject\FostudioUtility\FostudioUtility\FostudioUtility\bin\Debug\FostudioUtility.pdb
+G:\DllTrialProject\FostudioUtility\FostudioUtility\FostudioUtility\obj\Debug\FostudioUtility.csprojResolveAssemblyReference.cache
+G:\DllTrialProject\FostudioUtility\FostudioUtility\FostudioUtility\obj\Debug\FostudioUtility.dll
+G:\DllTrialProject\FostudioUtility\FostudioUtility\FostudioUtility\obj\Debug\FostudioUtility.pdb
+G:\DllTrialProject\FostudioUtility\FostudioUtility\bin\Debug\FostudioUtility.dll
+G:\DllTrialProject\FostudioUtility\FostudioUtility\bin\Debug\FostudioUtility.pdb
+G:\DllTrialProject\FostudioUtility\FostudioUtility\obj\Debug\FostudioUtility.csprojResolveAssemblyReference.cache
+G:\DllTrialProject\FostudioUtility\FostudioUtility\obj\Debug\FostudioUtility.dll
+G:\DllTrialProject\FostudioUtility\FostudioUtility\obj\Debug\FostudioUtility.pdb
